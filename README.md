@@ -1,2 +1,7 @@
 # DesignPattern
-As a set of valuable patterns when studying design patterns of Java.
+
+### 更新日志：
+
+- 2016.06.25
+
+更新了`单例模式`中的“饿汉式”和“懒汉式”模式。
